@@ -1,0 +1,14 @@
+---
+description: km-foods 项目全局约定
+alwaysApply: true
+---
+
+# 项目约定
+
+- 所有内容使用中文
+- 文件编码 UTF-8，换行符 LF
+- 菜谱存放在 `recipes/分类/菜名/README.md`
+- 新建菜谱必须遵循 `templates/recipe-template.md` 模板
+- commit 信息使用中文，格式：`类型: 简要描述`（如 `新增: 番茄炒蛋菜谱`）
+- 分类目录名使用中文（家常菜、汤羹、甜品、烧烤、凉菜、主食、小吃等）
+- 菜名文件夹使用菜的常用名称，不加多余修饰
